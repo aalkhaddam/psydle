@@ -1,0 +1,9 @@
+body{
+	font:Arial;
+}
+
+#title{
+	color:white;
+	text-align: center;
+	text-shadow: 0 0 0 0;	/*fix to make a soft shadow around text*/
+}
